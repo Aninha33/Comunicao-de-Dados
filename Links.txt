@@ -1,0 +1,27 @@
+
+
+
+
+- Video demonstração do funcionamento
+https://drive.google.com/drive/folders/1LHuft_c62jiRzkM80nCH3Earwr6a-2vN?usp=sharing
+
+
+
+
+
+
+
+
+
+-Repositório GitHub ao qual contem todas as informações necessárias. No Git consta o relatório, código e vídeo teste demonstrando tudo funcionando devidamente.
+https://github.com/Aninha33/Comunica-o-de-Dados.git
+
+
+
+
+
+
+
+
+-Tinkercad
+https://www.tinkercad.com/things/6GFNX4HG8YR-brave-albar-habbi/editel?sharecode=UdGaj_TaNm2qimnq6jClZQ_XSdi93H4th_aq99gTfWg
